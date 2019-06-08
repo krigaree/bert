@@ -15,8 +15,9 @@ from model.net_architecture import model_fn_builder
 from utils.reader import read_examples
 from utils.preprocessing import input_fn_builder
 
-path_to_colab = "/home/krigaree/Documents/Uczelnia/Dutkiewicz/"
-path_to_bert = path_to_colab + "BERT/"
+# path_to_colab = "./"
+# path_to_bert = path_to_colab + "BERT/"
+path_to_bert = "./" 
 
 model_dir = path_to_bert + "uncased_L-24_H-1024_A-16/"
 
