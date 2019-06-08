@@ -1,3 +1,10 @@
+#
+trash
+# *.txt
+*.ipynb
+pretraining_output
+uncased_L-24_H-1024_A-16/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
